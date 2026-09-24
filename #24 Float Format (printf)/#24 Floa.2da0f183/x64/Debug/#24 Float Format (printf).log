@@ -1,0 +1,3 @@
+﻿  #24 Float Format (printf).cpp
+C:\Users\akats\OneDrive\Desktop\Programming Advices\Course 6\(7,11): warning C4305: 'initializing': truncation from 'double' to 'float'
+  #24 Float Format (printf).vcxproj -> C:\Users\akats\OneDrive\Desktop\Programming Advices\Course 6\#24 Float Format (printf)\x64\Debug\#24 Float Format (printf).exe

@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\akats\\OneDrive\\Desktop\\Programming Advices\\Course 6\\#16 Function Overloading\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9D35F53-8FE0-4B61-8655-2B775E2CAC8C}|#16 Function Overloading.vcxproj|C:\\Users\\akats\\OneDrive\\Desktop\\Programming Advices\\Course 6\\#16 Function Overloading\\#16 Function Overloading.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A9D35F53-8FE0-4B61-8655-2B775E2CAC8C}|#16 Function Overloading.vcxproj|solutionrelative:#16 Function Overloading.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "#16 Function Overloading.cpp",
+              "DocumentMoniker": "C:\\Users\\akats\\OneDrive\\Desktop\\Programming Advices\\Course 6\\#16 Function Overloading\\#16 Function Overloading.cpp",
+              "RelativeDocumentMoniker": "#16 Function Overloading.cpp",
+              "ToolTip": "C:\\Users\\akats\\OneDrive\\Desktop\\Programming Advices\\Course 6\\#16 Function Overloading\\#16 Function Overloading.cpp",
+              "RelativeToolTip": "#16 Function Overloading.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-13T18:55:58.048Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

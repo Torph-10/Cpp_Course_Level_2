@@ -1,0 +1,9 @@
+﻿  #48 Vector Iterators.cpp
+C:\Users\akats\OneDrive\Desktop\Programming Advices\Courses C++\Course Level 2\#48 Vector Iterators\#48 Vector Iterators.cpp(11,26): error C2451: a conditional expression of type 'std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>' is not valid
+C:\Users\akats\OneDrive\Desktop\Programming Advices\Courses C++\Course Level 2\#48 Vector Iterators\#48 Vector Iterators.cpp(11,26): error C2451:         with
+C:\Users\akats\OneDrive\Desktop\Programming Advices\Courses C++\Course Level 2\#48 Vector Iterators\#48 Vector Iterators.cpp(11,26): error C2451:         [
+C:\Users\akats\OneDrive\Desktop\Programming Advices\Courses C++\Course Level 2\#48 Vector Iterators\#48 Vector Iterators.cpp(11,26): error C2451:             _Ty=int
+C:\Users\akats\OneDrive\Desktop\Programming Advices\Courses C++\Course Level 2\#48 Vector Iterators\#48 Vector Iterators.cpp(11,26): error C2451:         ]
+      C:\Users\akats\OneDrive\Desktop\Programming Advices\Courses C++\Course Level 2\(11,26):
+      No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+  

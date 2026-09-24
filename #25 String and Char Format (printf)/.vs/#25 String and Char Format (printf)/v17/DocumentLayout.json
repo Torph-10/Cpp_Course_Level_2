@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\akats\\OneDrive\\Desktop\\Programming Advices\\Course 6\\#25 String and Char Format (printf)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0C10B7-13A8-4237-98C1-892B40073583}|#25 String and Char Format (printf).vcxproj|C:\\Users\\akats\\OneDrive\\Desktop\\Programming Advices\\Course 6\\#25 String and Char Format (printf)\\#25 String and Char Format (printf).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BC0C10B7-13A8-4237-98C1-892B40073583}|#25 String and Char Format (printf).vcxproj|solutionrelative:#25 String and Char Format (printf).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "#25 String and Char Format (printf).cpp",
+              "DocumentMoniker": "C:\\Users\\akats\\OneDrive\\Desktop\\Programming Advices\\Course 6\\#25 String and Char Format (printf)\\#25 String and Char Format (printf).cpp",
+              "RelativeDocumentMoniker": "#25 String and Char Format (printf).cpp",
+              "ToolTip": "C:\\Users\\akats\\OneDrive\\Desktop\\Programming Advices\\Course 6\\#25 String and Char Format (printf)\\#25 String and Char Format (printf).cpp",
+              "RelativeToolTip": "#25 String and Char Format (printf).cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-26T19:39:07.786Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\akats\\OneDrive\\Desktop\\Programming Advices\\Course 6\\#22 Register Variable\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{712E79C7-8D48-419A-B70B-A0A9F8B4B1D3}|#22 Register Variable.vcxproj|C:\\Users\\akats\\OneDrive\\Desktop\\Programming Advices\\Course 6\\#22 Register Variable\\#22 Register Variable.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{712E79C7-8D48-419A-B70B-A0A9F8B4B1D3}|#22 Register Variable.vcxproj|solutionrelative:#22 Register Variable.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "#22 Register Variable.cpp",
+              "DocumentMoniker": "C:\\Users\\akats\\OneDrive\\Desktop\\Programming Advices\\Course 6\\#22 Register Variable\\#22 Register Variable.cpp",
+              "RelativeDocumentMoniker": "#22 Register Variable.cpp",
+              "ToolTip": "C:\\Users\\akats\\OneDrive\\Desktop\\Programming Advices\\Course 6\\#22 Register Variable\\#22 Register Variable.cpp",
+              "RelativeToolTip": "#22 Register Variable.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-24T19:44:21.945Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
